@@ -36,7 +36,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenQuote }) => {
       {/* Background Architectural Photograph with Depth Overlay */}
       <div className="absolute inset-0 z-0">
         <Image
-          src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=2400&q=85"
+          src="/images/hero.jpg"
           alt="Architect Hub Constructions - Modern Luxury Architecture & Construction"
           fill
           priority

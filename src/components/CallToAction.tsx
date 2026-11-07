@@ -17,7 +17,7 @@ export const CallToAction: React.FC<CallToActionProps> = ({ onOpenQuote }) => {
       {/* Background Architectural Photograph */}
       <div className="absolute inset-0 z-0">
         <Image
-          src="https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=2400&q=85"
+          src="/images/projects/project-3.jpg"
           alt="Architect Hub Constructions Vision"
           fill
           sizes="100vw"

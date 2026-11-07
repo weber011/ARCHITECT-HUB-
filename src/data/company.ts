@@ -57,8 +57,7 @@ export const SERVICES_LIST = [
     fullDesc:
       "From foundation to final finishes, we construct bespoke residential spaces engineered to endure for generations with flawless craftsmanship.",
     icon: "Home",
-    image:
-      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=1200&q=80",
+    image: "/images/services/residential-construction.jpg",
     features: [
       "Custom Luxury Residences",
       "Structural Engineering & RCC Framework",
@@ -74,8 +73,7 @@ export const SERVICES_LIST = [
     fullDesc:
       "Robust, scalable commercial buildings engineered for functionality, durability, and distinguished brand presence in Kushinagar and beyond.",
     icon: "Building2",
-    image:
-      "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    image: "/images/services/commercial-construction.jpg",
     features: [
       "Retail & Corporate Complex Builds",
       "Advanced Structural Steel & Concrete",
@@ -91,8 +89,7 @@ export const SERVICES_LIST = [
     fullDesc:
       "Thoughtful architectural blueprints that blend spatial elegance, climatic orientation, and structural viability tailored to your site.",
     icon: "Compass",
-    image:
-      "https://images.unsplash.com/photo-1503387762-592deb58ef4e?auto=format&fit=crop&w=1200&q=80",
+    image: "/images/services/architectural-planning.jpg",
     features: [
       "2D Floor Plans & Working Drawings",
       "Photorealistic 3D Elevations & Renderings",
@@ -108,8 +105,7 @@ export const SERVICES_LIST = [
     fullDesc:
       "Tailored interiors that balance warmth, modern minimalism, and ergonomic luxury for residential and commercial environments.",
     icon: "Palette",
-    image:
-      "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1200&q=80",
+    image: "/images/services/interior-design.jpg",
     features: [
       "Spatial Layout & Furniture Planning",
       "Custom Joinery & Millwork Design",
@@ -125,8 +121,7 @@ export const SERVICES_LIST = [
     fullDesc:
       "Revitalizing existing structures into contemporary architectural landmarks with structural reinforcement and modern aesthetic overhauls.",
     icon: "Wrench",
-    image:
-      "https://images.unsplash.com/photo-1581094794329-c8112a89af12?auto=format&fit=crop&w=1200&q=80",
+    image: "/images/services/building-renovation.jpg",
     features: [
       "Exterior Facade Modernization",
       "Structural Reinforcement & Repair",
@@ -142,8 +137,7 @@ export const SERVICES_LIST = [
     fullDesc:
       "Objective, experienced construction guidance helping you make informed decisions on budget, timeline, structural methods, and permits.",
     icon: "ClipboardCheck",
-    image:
-      "https://images.unsplash.com/photo-1541888946425-d0fbb18615f8?auto=format&fit=crop&w=1200&q=80",
+    image: "/images/services/project-consultation.jpg",
     features: [
       "Site Evaluation & Soil Assessment",
       "Detailed Bill of Quantities (BOQ)",
@@ -160,8 +154,7 @@ export const FEATURED_PROJECTS = [
     category: "Residential Architecture",
     tag: "Luxury Villa",
     location: "Kushinagar Region",
-    image:
-      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=1200&q=80",
+    image: "/images/projects/project-1.jpg",
     description: "Contemporary cantilevered residence featuring expansive glazing, natural stone facades, and seamless indoor-outdoor living.",
   },
   {
@@ -170,8 +163,7 @@ export const FEATURED_PROJECTS = [
     category: "Commercial Construction",
     tag: "Commercial",
     location: "Regional District",
-    image:
-      "https://images.unsplash.com/photo-1577495508048-b635879837f1?auto=format&fit=crop&w=1200&q=80",
+    image: "/images/projects/project-2.jpg",
     description: "Multi-level commercial complex with energy-efficient glass curtain walls and reinforced concrete structural framework.",
   },
   {
@@ -180,8 +172,7 @@ export const FEATURED_PROJECTS = [
     category: "Residential Architecture",
     tag: "Modern Residential",
     location: "Uttar Pradesh",
-    image:
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+    image: "/images/projects/project-3.jpg",
     description: "Geometric luxury home balancing warm teak accents, raw concrete surfaces, and shaded terrace pavilions.",
   },
   {
@@ -190,8 +181,7 @@ export const FEATURED_PROJECTS = [
     category: "Commercial Construction",
     tag: "Commercial",
     location: "Commercial Enclave",
-    image:
-      "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+    image: "/images/projects/project-4.jpg",
     description: "Iconic corporate headquarters featuring sleek vertical louvers and high-capacity floorplates.",
   },
   {
@@ -200,8 +190,7 @@ export const FEATURED_PROJECTS = [
     category: "Residential Architecture",
     tag: "Luxury Villa",
     location: "Private Estate",
-    image:
-      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+    image: "/images/projects/project-5.jpg",
     description: "Timeless contemporary estate incorporating passive solar design, dramatic double-height foyer, and landscaped courtyards.",
   },
   {
@@ -210,8 +199,7 @@ export const FEATURED_PROJECTS = [
     category: "Interior Design & Planning",
     tag: "Contemporary Design",
     location: "Residential Suite",
-    image:
-      "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=1200&q=80",
+    image: "/images/projects/project-6.jpg",
     description: "Harmonious minimalist interior featuring custom acoustic wall paneling, Italian marble accents, and hidden architectural lighting.",
   },
 ];

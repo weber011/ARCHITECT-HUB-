@@ -41,7 +41,7 @@ export const AboutUs: React.FC<AboutUsProps> = ({ onOpenQuote }) => {
           <div className="lg:col-span-5 relative">
             <div className="relative aspect-[4/5] w-full rounded-2xl overflow-hidden border border-gold/25 shadow-2xl">
               <Image
-                src="https://images.unsplash.com/photo-1541888946425-d0fbb18615f8?auto=format&fit=crop&w=1200&q=80"
+                src="/images/about-us.jpg"
                 alt="Architect Hub Constructions Site Execution & Planning"
                 fill
                 sizes="(max-width: 1024px) 100vw, 40vw"
